@@ -1,0 +1,6 @@
+{
+  "workingDir": "./temp/deploy/",
+  "account": "<!-- STORAGE ACCOUNT NAME -->",
+  "container": "item-adder",
+  "accessKey": "<!-- ACCESS KEY -->"
+}

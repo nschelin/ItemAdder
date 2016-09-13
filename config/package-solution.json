@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "item-adder-client-side-solution",
+    "id": "0f955d13-5558-4f9e-879a-abb5adf57b1a",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "item-adder.spapp"
+  }
+}

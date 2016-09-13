@@ -1,0 +1,19 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "353ba234-3922-41ef-876f-2abdf60e5c78",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "353ba234-3922-41ef-876f-2abdf60e5c78",
+    "group": { "default": "Under Development" },
+    "title": { "default": "ItemAdder" },
+    "description": { "default": "Adds items to a list" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "ItemAdder"
+    }
+  }]
+}
